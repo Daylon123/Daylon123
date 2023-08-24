@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Daylon, an <a href="https://linkedin.com/in/Daylon">IT Professional</a>@</h1>
+### Hi there 👋 I'm Daylon Ellington, an <a href="https://linkedin.com/in/Daylon">IT Professional</a>@</h1>
 
 <!--
 **Daylon123/Daylon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
